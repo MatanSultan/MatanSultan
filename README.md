@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 💬 Ask me about front end developer...
 📫 How to reach me matansultan1@gmail.com
 
-###Connect with me:
+##Connect with me:
 
 
-###Languages and Tools:
+##Languages and Tools:
 
 
 
