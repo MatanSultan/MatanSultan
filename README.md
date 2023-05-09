@@ -1,36 +1,26 @@
- ### Hi there 👋 Iam Matan Sultan 
- ### A passionate frontend developer from Israel
+# Hi there! 👋
 
-<!--
-**MatanSultan/MatanSultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Matan Sultan, and I'm a passionate frontend developer from Israel. I'm currently learning FullStack Development at Atid College in the software engineering track.
 
-Here are some ideas to get you started:
+## 💻 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can check out all of my projects at [https://matan-sultan-profile.vercel.app/project](https://matan-sultan-profile.vercel.app/project).
 
-🌱 I’m currently learning FullStack Developer , At Atid College, in the software engineering track
+## 📫 Contact
 
-👨‍💻 All of my projects are available here : https://matan-sultan-profile.vercel.app/project
+Feel free to reach out to me at matansultan1@gmail.com. I'm always happy to connect and chat!
 
-💬 Ask me about front end developer...
-📫 How to reach me matansultan1@gmail.com
+## 🌟 Connect with Me
 
-#Connect with me:
+[LinkedIn]([https://www.linkedin.com/in/matan-sultan-87a425212/](https://www.linkedin.com/in/matansultan/))
+[GitHub](https://github.com/MatanSultan)
 
 
-#Languages and Tools:
+## 🔨 Languages and Tools
 
-
-
-
-
-
+- HTML, CSS, JavaScript
+- React.js, NextJs,Angular
+- Node.js, Express.js
+- MongoDB,Sql server,planetscale,firebase
+- Git, GitHub
 
