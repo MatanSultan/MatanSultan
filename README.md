@@ -12,7 +12,7 @@ Feel free to reach out to me at matansultan1@gmail.com. I'm always happy to conn
 
 ## 🌟 Connect with Me
 
-[LinkedIn]([https://www.linkedin.com/in/matan-sultan-87a425212/](https://www.linkedin.com/in/matansultan/])
+[LinkedIn](https://www.linkedin.com/in/matan-sultan-87a425212/](https://www.linkedin.com/in/matansultan/)
 [GitHub](https://github.com/MatanSultan)
 
 
